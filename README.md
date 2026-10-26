@@ -6,14 +6,25 @@
   <img src="assets/divider.svg" alt="Divider"/>
 </p>
 
-### ⚡ // SYSTEM_OVERVIEW
-> **Full-Stack & AI Software Engineer** graduated from **EMSI (Rabat, Morocco)**. Passionate about building robust web applications, LLM/AI-powered agents, video processing automation, scalable microservices, and clean, production-ready code.
+### ⚡ ABOUT ME
+
+<table>
+  <tr>
+    <td width="60%">
+      <b>Basma Ouarid</b> — Full-Stack & AI Software Engineer graduated from <b>EMSI (Rabat, Morocco)</b>. Passionate about building robust web applications, LLM/AI-powered agents, video processing automation, and scalable microservices.<br><br>
+      I enjoy building high-performance systems with <b>Next.js, React, TypeScript, Node.js, Python, PostgreSQL, and Prisma</b>, continuously sharpening my architecture and full-stack engineering skills.
+    </td>
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gitHub.gif" alt="Cyber Samurai Animation" width="260px"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="assets/divider.svg" alt="Divider"/>
 </p>
 
-### 🛠️ // CORE_TECH_STACK
+### 🛠️ TECH STACK
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,python,java,spring,postgres,docker,githubactions,tailwind,flutter,git,linux&theme=dark" alt="Tech Stack"/>
 </p>
@@ -22,12 +33,12 @@
   <img src="assets/divider.svg" alt="Divider"/>
 </p>
 
-### 🚀 // FEATURED_PROJECTS
+### 🚀 FEATURED PROJECTS
 > *High-performance systems, AI automation & production-grade architectures.*
 
 * **[AI Video Clipper SaaS (In Dev)](https://github.com/basmaouarid)** — Intelligent video repurposing platform. Input YouTube links to automatically generate viral shorts/clips with synchronized dynamic subtitles, custom styling options, and multi-platform publishing workflows.
 * **[WhatsApp AI Sales & Booking Agent](https://github.com/basmaouarid)** — Automated conversational AI sales agent for location-based services built with **Next.js 16, Supabase, QStash, & Meta WhatsApp Cloud API**.
-* **[BotoSchool (Academic PFE)](https://github.com/basmaouarid)** — Multi-tenant school management SaaS platform (EMSİ Graduation Capstone Project developed in a binôme) with **Next.js, React, TypeScript, Node.js, PostgreSQL, Prisma, & RAG architecture** & voice assistant integration.
+* **[BotoSchool (Academic PFE)](https://github.com/basmaouarid)** — Multi-tenant school management SaaS platform developed during my engineering internship at **Botoologia** (EMSI Graduation Capstone Project developed in a binôme) with **Next.js, React, TypeScript, Node.js, PostgreSQL, Prisma, & RAG architecture** & voice assistant integration.
 * **[Luxury Boutique Cosmetics App](https://github.com/basmaouarid)** — High-end mobile e-commerce client interface for cosmetics built with **Flutter & Dart**.
 * **[Hotel Microservices Reservation System](https://github.com/basmaouarid)** — Scalable backend microservices architecture for hotel booking management (EMSI Academic Project) built with **Java Spring Boot, Docker, & PostgreSQL**.
 * **[E-Commerce & SEO Suite (Suppléments Alimentaires)](https://github.com/basmaouarid)** — Full digital growth optimization project featuring targeted keyword clustering, structured FAQ schemas, KPI tracking frameworks, and competitor analysis.
@@ -37,12 +48,14 @@
   <img src="assets/divider.svg" alt="Divider"/>
 </p>
 
-### 📊 // CYBER_ANALYTICS & STATS
+### 📊 GITHUB STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basmaouarid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&icon_color=ff4d4d&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=basmaouarid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&icon_color=ff4d4d&text_color=ffffff" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basmaouarid&theme=tokyonight&hide_border=true&background=0a0505&side_L=ff0033&ring=ff4d4d&currStreakNum=ffffff" alt="GitHub Streak"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmaouarid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmaouarid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&text_color=ffffff" alt="Top Languages"/>
 </p>
 
 <p align="center">
