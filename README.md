@@ -39,8 +39,10 @@
 
 ### 📊 // CYBER_ANALYTICS & STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basmaouarid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&icon_color=ff4d4d&text_color=ffffff" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmaouarid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&text_color=ffffff" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=basmaouarid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&icon_color=ff4d4d&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmaouarid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
