@@ -48,6 +48,16 @@
   <img src="assets/divider.svg" alt="Divider"/>
 </p>
 
+### 🚀 SELECTED PROJECTS
+- **[Banking Microservices](https://github.com/basmaouarid/-msa-bank-system)**: microservices architecture, Java, gRPC.
+- **gRPC client / server**: [client](https://github.com/basmaouarid/grpc-client-tp) · [server](https://github.com/basmaouarid/grpc-server-tp), Java.
+- **Luxury cosmetics app**: mobile e-commerce client, Flutter and Dart.
+- **Education platform (PFE, team project)**: built with a team during my engineering internship. Details on [LinkedIn](https://www.linkedin.com/in/basma-ouarid).
+
+  <p align="center">
+  <img src="assets/divider.svg" alt="Divider"/>
+</p>
+
 ### 📊 GITHUB STREAK & STATS
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=basmaouarid&theme=tokyonight&hide_border=true&background=0a0505&side_L=ff0033&ring=ff4d4d&currStreakNum=ffffff" alt="GitHub Streak"/>
