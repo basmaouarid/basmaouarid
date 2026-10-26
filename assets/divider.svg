@@ -1,1 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="100%" height="40">
+  <defs>
+    <linearGradient id="div-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a0f1f" stop-opacity="0" />
+      <stop offset="20%" stop-color="#0a0f1f" stop-opacity="1" />
+      <stop offset="80%" stop-color="#0a0f1f" stop-opacity="1" />
+      <stop offset="100%" stop-color="#0a0f1f" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="cyber-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.2" />
+      <stop offset="30%" stop-color="#00f0ff" stop-opacity="1" />
+      <stop offset="50%" stop-color="#b44cff" stop-opacity="1" />
+      <stop offset="70%" stop-color="#00f0ff" stop-opacity="1" />
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0.2" />
+    </linearGradient>
+    <filter id="glow-line" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
 
+  <!-- Dark container background matching the theme -->
+  <rect width="1200" height="40" fill="url(#div-bg)" />
+
+  <!-- Tech glowing accent line with cyber chevrons -->
+  <path d="M 0,20 L 450,20 L 470,10 L 490,30 L 510,20 L 690,20 L 710,10 L 730,30 L 750,20 L 1200,20" fill="none" stroke="url(#cyber-grad)" stroke-width="2.5" filter="url(#glow-line)" />
+        
+  <!-- Center tech dot -->
+  <circle cx="600" cy="20" r="3" fill="#00f0ff" filter="url(#glow-line)" />
+</svg>
