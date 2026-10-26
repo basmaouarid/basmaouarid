@@ -15,7 +15,7 @@
       I enjoy building high-performance systems with <b>Next.js, React, TypeScript, Node.js, Python, PostgreSQL, and Prisma</b>, continuously sharpening my architecture and full-stack engineering skills.
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gitHub.gif" alt="Cyber Samurai Animation" width="260px"/>
+      <img src="https://raw.githubusercontent.com/basmaouarid/basmaouarid/main/assets/about-img.jpg" alt="Basma Cyber Vibe" width="240px" style="border-radius: 8px;"/>
     </td>
   </tr>
 </table>
