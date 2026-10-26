@@ -37,13 +37,18 @@
   <img src="assets/divider.svg" alt="Divider"/>
 </p>
 
-### 📊 // GITHUB_ANALYTICS
+### 🎮 // ACHIEVEMENT_TROPHIES
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basmaouarid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&icon_color=ff4d4d&text_color=ffffff" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basmaouarid&theme=tokyonight&hide_border=true&background=0a0505&side_L=ff0033&ring=ff4d4d&currStreakNum=ffffff" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=basmaouarid&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
+  <img src="assets/divider.svg" alt="Divider"/>
+</p>
+
+### 📊 // CYBER_ANALYTICS & SKILLS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basmaouarid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&icon_color=ff4d4d&text_color=ffffff" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmaouarid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&text_color=ffffff" alt="Top Languages"/>
 </p>
 
@@ -51,10 +56,10 @@
   <img src="assets/divider.svg" alt="Divider"/>
 </p>
 
-### 🐍 // CONTRIBUTION_MATRIX
+### 🕹️ // ARCADE_MATRIX
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/basmaouarid/basmaouarid/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/basmaouarid/basmaouarid/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
     <img src="https://raw.githubusercontent.com/basmaouarid/basmaouarid/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
   </picture>
 </p>
@@ -64,5 +69,5 @@
 </p>
 
 <p align="center">
-  <i>⚡ Profile Views: </i><img src="https://komarev.com/ghpvc/?username=basmaouarid&color=ff0033&style=flat-square&label=VIEWS" alt="Profile Views Counter"/>
+  <i>⚡ Player Views: </i><img src="https://komarev.com/ghpvc/?username=basmaouarid&color=ff0033&style=flat-square&label=VIEWS" alt="Profile Views Counter"/>
 </p>
