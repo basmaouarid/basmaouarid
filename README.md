@@ -27,7 +27,7 @@
 
 * **[AI Video Clipper SaaS (In Dev)](https://github.com/basmaouarid)** — Intelligent video repurposing platform. Input YouTube links to automatically generate viral shorts/clips with synchronized dynamic subtitles, custom styling options, and multi-platform publishing workflows.
 * **[WhatsApp AI Sales & Booking Agent](https://github.com/basmaouarid)** — Automated conversational AI sales agent for location-based services built with **Next.js 16, Supabase, QStash, & Meta WhatsApp Cloud API**.
-* **[BotoSchool (Academic PFE)](https://github.com/basmaouarid)** — Multi-tenant school management SaaS platform (EMSİ Graduation Capstone Project developed in a binôme) with **Next.js, React, TypeScript, Node.js, PostgreSQL, Prisma, & RAG architecture** & voice assistant integration.
+* **[BotoSchool (Academic PFE)](https://github.com/basmaouarid)** — Multi-tenant school management SaaS platform (EMSİ Graduation Capstone Project developed in a binôme) inside Startup **Botoologia**  with **Next.js, React, TypeScript, Node.js, PostgreSQL, Prisma, & RAG architecture** & voice assistant integration.
 * **[Luxury Boutique Cosmetics App](https://github.com/basmaouarid)** — High-end mobile e-commerce client interface for cosmetics built with **Flutter & Dart**.
 * **[Hotel Microservices Reservation System](https://github.com/basmaouarid)** — Scalable backend microservices architecture for hotel booking management (EMSI Academic Project) built with **Java Spring Boot, Docker, & PostgreSQL**.
 * **[E-Commerce & SEO Suite (Suppléments Alimentaires)](https://github.com/basmaouarid)** — Full digital growth optimization project featuring targeted keyword clustering, structured FAQ schemas, KPI tracking frameworks, and competitor analysis.
