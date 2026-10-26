@@ -48,13 +48,9 @@
   <img src="assets/divider.svg" alt="Divider"/>
 </p>
 
-### 📊 GITHUB STATS
+### 📊 GITHUB STREAK & STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basmaouarid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&icon_color=ff4d4d&text_color=ffffff" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=basmaouarid&theme=tokyonight&hide_border=true&background=0a0505&side_L=ff0033&ring=ff4d4d&currStreakNum=ffffff" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmaouarid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&text_color=ffffff" alt="Top Languages"/>
 </p>
 
