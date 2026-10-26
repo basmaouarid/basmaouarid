@@ -7,7 +7,7 @@
 </p>
 
 ### ⚡ // SYSTEM_OVERVIEW
-> **Full-Stack & AI Software Engineer** graduated from **EMSI (Rabat, Morocco)**. Passionate about building robust web applications, LLM/AI-powered architectures, and scalable microservices with clean, production-ready code.
+> **Full-Stack & AI Software Engineer** graduated from **EMSI (Rabat, Morocco)**. Passionate about building robust web applications, LLM/AI-powered agents, video processing automation, scalable microservices, and clean, production-ready code.
 
 <p align="center">
   <img src="assets/divider.svg" alt="Divider"/>
@@ -15,7 +15,7 @@
 
 ### 🛠️ // CORE_TECH_STACK
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,python,java,spring,postgres,docker,githubactions,tailwind,git,linux&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,python,java,spring,postgres,docker,githubactions,tailwind,flutter,git,linux&theme=dark" alt="Tech Stack"/>
 </p>
 
 <p align="center">
@@ -23,12 +23,15 @@
 </p>
 
 ### 🚀 // FEATURED_PROJECTS
-> *High-performance systems & production-grade architectures built with modern tech.*
+> *High-performance systems, AI automation & production-grade architectures.*
 
-* **[BotoSchool](https://github.com/basmaouarid)** — AI-powered multi-tenant school management SaaS platform. Built with **Next.js, React, TypeScript, Node.js, PostgreSQL, Prisma, & RAG architecture** featuring voice assistant integration.
-* **[Operational Hub (OHB)](https://github.com/basmaouarid)** — Business Intelligence platform integrating PowerBI analytics, automated ETL data pipelines, and AI-driven query capabilities.
-* **[Maison Aurelia](https://github.com/basmaouarid)** — Virtual commerce SaaS & 5D web application for luxury venue experience bookings (**Next.js, Tailwind CSS, Framer Motion**).
-* **[TAKNAJ](https://github.com/basmaouarid)** — Modern e-commerce storefront optimized for performance and SEO, built for traditional Moroccan Berber rugs (**Next.js, Vercel**).
+* **[AI Video Clipper SaaS (In Dev)](https://github.com/basmaouarid)** — Intelligent video repurposing platform. Input YouTube links to automatically generate viral shorts/clips with synchronized dynamic subtitles, custom styling options, and multi-platform publishing workflows.
+* **[WhatsApp AI Sales & Booking Agent](https://github.com/basmaouarid)** — Automated conversational AI sales agent for location-based services built with **Next.js 16, Supabase, QStash, & Meta WhatsApp Cloud API**.
+* **[BotoSchool (Academic PFE)](https://github.com/basmaouarid)** — Multi-tenant school management SaaS platform (EMSİ Graduation Capstone Project developed in a binôme) with **Next.js, React, TypeScript, Node.js, PostgreSQL, Prisma, & RAG architecture** & voice assistant integration.
+* **[Luxury Boutique Cosmetics App](https://github.com/basmaouarid)** — High-end mobile e-commerce client interface for cosmetics built with **Flutter & Dart**.
+* **[Hotel Microservices Reservation System](https://github.com/basmaouarid)** — Scalable backend microservices architecture for hotel booking management (EMSI Academic Project) built with **Java Spring Boot, Docker, & PostgreSQL**.
+* **[E-Commerce & SEO Suite (Suppléments Alimentaires)](https://github.com/basmaouarid)** — Full digital growth optimization project featuring targeted keyword clustering, structured FAQ schemas, KPI tracking frameworks, and competitor analysis.
+* **[Maison Aurelia & TAKNAJ](https://github.com/basmaouarid)** — Virtual commerce SaaS & modern e-commerce storefronts optimized for performance and SEO (**Next.js, Tailwind CSS, Framer Motion, Vercel**).
 
 <p align="center">
   <img src="assets/divider.svg" alt="Divider"/>
