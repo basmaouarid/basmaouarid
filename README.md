@@ -47,9 +47,9 @@
   <img src="assets/divider.svg" alt="Divider"/>
 </p>
 
-### 🐍 // ARCADE_MATRIX_ANIMATION
+### 🕹️ // CYBER_ACTIVITY_STREAM
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basmaouarid/basmaouarid/output/ocean.gif" alt="Snake animation" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basmaouarid&theme=tokyo-night&bg_color=0a0505&color=ff0033&line=ff0033&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
 <p align="center">
