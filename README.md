@@ -37,19 +37,10 @@
   <img src="assets/divider.svg" alt="Divider"/>
 </p>
 
-### 📊 // CYBER_ANALYTICS & SKILLS
+### 📊 // CYBER_ANALYTICS & STATS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basmaouarid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&icon_color=ff4d4d&text_color=ffffff" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmaouarid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&text_color=ffffff" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider"/>
-</p>
-
-### 🕹️ // CYBER_ACTIVITY_STREAM
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basmaouarid&theme=tokyo-night&bg_color=0a0505&color=ff0033&line=ff0033&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
 <p align="center">
