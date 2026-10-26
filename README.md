@@ -49,7 +49,7 @@
 
 ### 🐍 // ARCADE_MATRIX_ANIMATION
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basmaouarid/basmaouarid/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/basmaouarid/basmaouarid/output/ocean.gif" alt="Snake animation" width="100%"/>
 </p>
 
 <p align="center">
