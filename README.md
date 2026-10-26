@@ -37,15 +37,6 @@
   <img src="assets/divider.svg" alt="Divider"/>
 </p>
 
-### 🎮 // ACHIEVEMENT_TROPHIES
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=basmaouarid&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4&margin-w=15&color=red" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider"/>
-</p>
-
 ### 📊 // CYBER_ANALYTICS & SKILLS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basmaouarid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0505&title_color=ff0033&icon_color=ff4d4d&text_color=ffffff" alt="GitHub Stats"/>
@@ -58,10 +49,7 @@
 
 ### 🐍 // ARCADE_MATRIX_ANIMATION
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/basmaouarid/basmaouarid/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
-    <img src="https://raw.githubusercontent.com/basmaouarid/basmaouarid/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/basmaouarid/basmaouarid/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </p>
 
 <p align="center">
